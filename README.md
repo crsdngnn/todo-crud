@@ -1,4 +1,4 @@
-# Calendar Event
+# Laravel VueJs CRUD
 
 A simple crud using Laravel and VueJs
 
